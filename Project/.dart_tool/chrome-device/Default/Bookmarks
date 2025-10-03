@@ -1,0 +1,95 @@
+{
+   "checksum": "ef3e3657c8db36f610f56b926a3ae624",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13403957894516145",
+            "date_last_used": "0",
+            "guid": "ced21295-ff41-4e80-b78c-e7c1a0a7c485",
+            "id": "10",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13403957894515881",
+            "date_last_used": "0",
+            "guid": "f0a25ba2-65d3-4b76-8aee-c6d2165798eb",
+            "id": "9",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         }, {
+            "date_added": "13403957894515654",
+            "date_last_used": "0",
+            "guid": "5a6c7c08-9626-43c9-aba3-4cfb1b4ce7dc",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13403957894515347",
+            "date_last_used": "0",
+            "guid": "306d56a7-a4de-444c-bbe5-3f627bf44f1e",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13403957894513233",
+            "date_last_used": "0",
+            "guid": "0ab21861-2fcd-4b75-9fb1-f9468cf1b32e",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         } ],
+         "date_added": "13403957894096932",
+         "date_last_used": "0",
+         "date_modified": "13403957894516145",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13403957894096932",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13403957894096932",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCC1KcKmZAQAAKg4QABgBIAAoBjAAOABAABIAKhh0UzB1R2p6YThxWHgxNFhja0pScnlRPT1IA6AGDBKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ1MGY5ZmMwMy0yNGMyLTUxZmEtYmFlMy1lZTJhOTdjMGJlNmUYACAAKAAwy6iFp4QzOO6xhaeEM0DusYWnhDNKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMmI3YThkZDctOTdmOS01OGE1LTgwOTktZWY5NGM4NGJkY2VmGAAgACgAMMyohaeEMziSsoWnhDNAkrKFp4QzShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDEzOGRiOTM5LTIxNzktNWQzNS05ZGU2LWY2ZDM0ZmUwMWY1YhgAIAAoADDRqIWnhDM41LKFp4QzQNSyhaeEM0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
